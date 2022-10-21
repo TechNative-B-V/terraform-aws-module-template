@@ -22,14 +22,16 @@ Your module name should be max. three words seperated by dashes. E.g.
 ### Setup Github Project
 
 1. Click the template button on the top right...
-2. Name github project `terraform-aws-[your-module-name]`
-3. Make project private untill ready for publication
-2. Install `pre-commit`
+1. Name github project `terraform-aws-[your-module-name]`
+1. Make project private untill ready for publication
+1. Add a description in the `About` section (top right)
+1. Add tags: `terraform`, `terraform-module`, `aws` and more tags relevant to your project: e.g. `s3`, `lambda`, `sso`, etc..
+1. Install `pre-commit`
 
 ### Develop your module
 
 1. Develop your module
-2. Try to use the [best practices for TerraForm
+1. Try to use the [best practices for TerraForm
    development](https://www.terraform-best-practices.com/) and [TerraForm AWS
    Development](https://github.com/ozbillwang/terraform-best-practices).
 
