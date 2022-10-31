@@ -76,9 +76,9 @@ This module implements ...
 
 To use this module ...
 
-```json
+```hcl
 {
-  "some_conf": "might need explanation"
+  some_conf = "might need explanation"
 }
 ```
 
