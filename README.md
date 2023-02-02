@@ -60,7 +60,7 @@ publication, you can publish a first version.
 > END INSTRUCTION FOR TECHNATIVE ENGINEERS
 
 
-# Terraform AWS [Module Name] ![](https://img.shields.io/github/workflow/status/TechNative-B-V/terraform-aws-module-name/Lint?style=plastic)
+# Terraform AWS [Module Name] ![](https://img.shields.io/github/workflow/status/TechNative-B-V/terraform-aws-module-name/tflint.yaml?style=plastic)
 
 <!-- SHIELDS -->
 
