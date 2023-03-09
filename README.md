@@ -70,6 +70,12 @@ This module implements ...
 
 ## How does it work
 
+### First use after you clone this repository or when .pre-commit-config.yaml is updated
+
+Run `pre-commit install` to install any guardrails implemented using pre-commit.
+
+See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit.
+
 ...
 
 ## Usage
